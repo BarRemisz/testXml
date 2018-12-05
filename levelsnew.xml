@@ -1,0 +1,43 @@
+<scenesdata>
+<levels>
+	<level width="4" height="4" gamerule="En_Add" keysToUnlock="0"  keysAfterUnlock="2">
+		<value>
+		1:indx1;x;x;2:indx2
+		x;x;x;x
+		x;2:indx3;2:indx4;x
+		x;x;x;3:indx5
+		</value>
+	</level>
+	<level width="5" height="5" gamerule="En_Add" keysAfterUnlock="1" starsToUnlock="0" keysToUnlock="1">
+		<value>
+		x;x;3;x;x
+		x;1;x;2;x
+		x;2;1;2;x
+		x;x;2;3;x
+		x;x;x;x;x
+		</value>
+	</level>
+	<level width="5" height="5" gamerule="En_Add" keysAfterUnlock="1" starsToUnlock="0" keysToUnlock="1">
+		<value>
+		x;x;x;x;x
+		x;3;1;x;4
+		x;x;3;x;x
+		x;2;4;x;1
+		x;x;x;x;x
+		</value>
+	</level>
+	<level width="5" height="5" gamerule="En_Add" keysAfterUnlock="1" starsToUnlock="0" keysToUnlock="1">
+		<value>
+		6;1;x;2;x
+		x;x;x;x;x
+		x;3;2;x;x
+		x;x;x;x;x
+		x;x;5;4;1
+		</value>
+		<achievements>
+			<achievement type="2" value="1" id="0"/>
+			<achievement type="2" value="2" id="1"/>
+		</achievements>
+	</level>
+</levels>
+</scenesdata>
